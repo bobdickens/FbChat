@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "225616034290",
+    "firebase_url": "https://mychat-fd457-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "mychat-fd457",
+    "storage_bucket": "mychat-fd457.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:225616034290:android:565cef006bed307546136b",
+        "android_client_info": {
+          "package_name": "com.imladris_doc.fbchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "225616034290-ldcf3urnfa3r84btgs6otq3ka3n7sdl5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvjk54nnzwXT9qJbzTF54FXfuR8JXCjpw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "225616034290-ldcf3urnfa3r84btgs6otq3ka3n7sdl5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
